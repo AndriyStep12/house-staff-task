@@ -1,0 +1,24 @@
+.sale-goods{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.sale-page{
+    margin-top: 100px;
+}
+
+.infoPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.infoPage h2{
+    font-size: 40px;
+}
