@@ -58,6 +58,7 @@
     .goodsItem{
         flex-direction: column;
         height: 500px;
+        width: 100%;
     }
 
     .right,
@@ -69,5 +70,9 @@
     .left .blockImage{
         height: 80%;
         width: 50%;
+    }
+
+    .wrap{
+        padding: 50px 30px;
     }
 }
