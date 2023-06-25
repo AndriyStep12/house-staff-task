@@ -3,6 +3,7 @@ import Footer from "./components/Footer/Footer";
 import GoodsContainer from "./components/Goods/GoodsContainer";
 import Rules from './components/Rules/Rules';
 import SaleCont from './components/saleGoods/sale';
+import './adaptive.css'
 
 function App() {
   return (

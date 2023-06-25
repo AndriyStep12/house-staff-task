@@ -10,7 +10,7 @@ export default function SaleCont(){
     return(
         <div className="sale-page">
             <div className="infoPage">
-                <h2>АКІЙНІ ТОВАРИ</h2>
+                <h2>АКЦІЙНІ ТОВАРИ</h2>
             </div>
             <div className="sale-goods">
                 {filteredData.map(item => <GoodsBlock key={item.title} image={item.image} title={item.title} price={item.price} color={item.color} description={item.description} count={item.cnt} sale={item.sale} />)}

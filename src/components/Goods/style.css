@@ -8,3 +8,7 @@
     flex-direction: column;
     margin-top: 150px;
 }
+
+.block_h2 h2{
+    font-size: 40px;
+}
